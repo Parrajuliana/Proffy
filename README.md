@@ -1,5 +1,5 @@
 # Proffy
-Resultado do projeto da Next Level Week - com a identidade visual alterada.
+Resultado do projeto da Next Level Week  \
 *com a Prof Mayk Brito - RocketSeat* 🚀
 
 ### Sobre o projeto
@@ -12,7 +12,10 @@ O resultado do projeto:
 
 **Versão WEB**
 
+![](https://github.com/Parrajuliana/Proffy/blob/master/5.jpg)
 
+![](https://github.com/Parrajuliana/Proffy/blob/master/7.jpg)
 
 **Versão MOBILE**
 
+![](https://github.com/Parrajuliana/Proffy/blob/master/6.jpg)
